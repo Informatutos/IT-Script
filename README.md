@@ -2,7 +2,7 @@
 Script d'installation automatique pour les débutants sur termux
 pour l'utilisation 
 tape pkg install git 
-ensuite git clone https://github.com/InformaTutos-geek/IT-Script.git
+ensuite git clone https://github.com/Informatutos/IT-Script.git
 cd Auto-install-informatutos
 ls
 chmod +x IT-script.sh
